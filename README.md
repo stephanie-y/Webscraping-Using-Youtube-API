@@ -12,10 +12,28 @@ I will be uploading various Python notebooks that show you how to gather data fo
 # Datasets: 
 
 1. **github-videos.csv** contains:
+**Last Modified: June 19, 2020**
 
 | **Header**     | **Description** | **Data Type**     |
 | :----:       |    :----   |         :----: |
-| Video ID   | The unique video id for a YouTube video, allows a URL to be generated that links to it.| String |
+| Video ID | The unique identifier for a YouTube video.| String |
 | Date     | The publishing date of a video to a channel in **YYYY-MM-DD** format.   | String   |
 | Channel ID  | The channel that uploaded the video.       | String      |
 | Title   | The title of the video.        | String      |
+
+2. **github-video-info.csv** contains:
+**Last Modified: June 19, 2020**
+
+| **Header**     | **Description** | **Data Type**     |
+| :----:       |    :----   |         :----: |
+| Video_ID | The unique identifier for a YouTube video.| String |
+| Title | The title of the video.        | String      |
+| Channel | The channel name that uploaded the video. | String      |
+| Publish_Date | The publishing date of a video to a channel in **YYYY-MM-DD** format.   | String   |
+| Publish_Time | The time the video was published in UTC in **HH:MM:SS** format.    | String   |
+| Views | The amount of views the video has received. | String   |
+| Likes |The amount of 'likes' the video has received. | String   |
+| Dislikes |The amount of 'dislikes' the video has received. | String   |
+| Comment_Count |The amount of comments a video has received. | String   |
+| Video_Tags | The tags created by the uploader associated with the video. | String   |
+| Video_Description | The video description written by the uploader. | String   |
