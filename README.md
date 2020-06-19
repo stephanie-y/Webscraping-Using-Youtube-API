@@ -21,7 +21,7 @@ I will be uploading various Python notebooks that show you how to gather data fo
 | Channel ID  | The channel that uploaded the video.       | String      |
 | Title   | The title of the video.        | String      |
 
-2. **github-video-info.csv** contains: \ 
+2. **github-video-info.csv** contains: \
 **Last Modified: June 19, 2020**
 
 | **Header**     | **Description** | **Data Type**     |
