@@ -8,3 +8,11 @@ I will be uploading various Python notebooks that show you how to gather data fo
 **1) scraping-githubs-channel.ipynb:** This notebook shows you how to gather the title, description, and publish date of all videos of any YouTube channel. You can store this information into a csv, xlsx, or just keep it as a list of json data. The collected video ids can be used as a separate list to scrape the videos statistics of each video as well.
 
 **2) get-video-info.ipynb:** This notebook shows you how to use the video id data gathered from the above notebook to grab YouTube statistics for each video id.
+
+github-videos.csv
+| **Header**     | **Description** | **Data Type**     |
+| :----:       |    :----:   |         :----: |
+| Video ID   | The unique video id for a YouTube video.        | String      |
+| Date     | The publishing date of a video to a channel.     | String   |
+| Title   | The title of the video.        | String      |
+| Channel  | The channel that uploaded the video.       | String      |
