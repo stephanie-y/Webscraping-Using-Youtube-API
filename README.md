@@ -11,8 +11,8 @@ I will be uploading various Python notebooks that show you how to gather data fo
 
 github-videos.csv
 | **Header**     | **Description** | **Data Type**     |
-| :----:       |    :----:   |         :----: |
-| Video ID   | The unique video id for a YouTube video.        | String      |
+| :----:       |    :----   |         :----: |
+| Video ID   | The unique video id for a YouTube video, allows a URL to be generated that links to it.| String      |
 | Date     | The publishing date of a video to a channel.     | String   |
 | Title   | The title of the video.        | String      |
 | Channel  | The channel that uploaded the video.       | String      |
