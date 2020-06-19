@@ -9,10 +9,13 @@ I will be uploading various Python notebooks that show you how to gather data fo
 
 **2) get-video-info.ipynb:** This notebook shows you how to use the video id data gathered from the above notebook to grab YouTube statistics for each video id.
 
-github-videos.csv
+# Datasets: 
+
+1. **github-videos.csv** contains:
+
 | **Header**     | **Description** | **Data Type**     |
 | :----:       |    :----   |         :----: |
-| Video ID   | The unique video id for a YouTube video, allows a URL to be generated that links to it.| String      |
+| Video ID   | The unique video id for a YouTube video, allows a URL to be generated that links to it.| String |
 | Date     | The publishing date of a video to a channel.     | String   |
+| Channel ID  | The channel that uploaded the video.       | String      |
 | Title   | The title of the video.        | String      |
-| Channel  | The channel that uploaded the video.       | String      |
