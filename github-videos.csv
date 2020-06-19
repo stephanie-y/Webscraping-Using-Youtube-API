@@ -1,0 +1,522 @@
+Date,Video ID,Title
+2020-05-08,NuonD5G28L8,Closing remarks - GitHub Satellite 2020
+2020-05-08,pYzfGaLTqC0,Finding security vulnerabilities in JavaScript with CodeQL - GitHub Satellite 2020
+2020-05-08,nvCd0Ee4FgE,Finding security vulnerabilities in Java with CodeQL - GitHub Satellite 2020
+2020-05-08,PYsZeFTdJ50,Continuous delivery with GitHub Actions - GitHub Satellite 2020
+2020-05-08,cyh8DU2QPzg,Continuous integration with GitHub Actions - GitHub Satellite 2020
+2020-05-08,wcxOJq9YemE,Building GitHub integrations with webhooks and REST- GitHub Satellite 2020
+2020-05-08,l3g41dGObJ4,Building automations with GitHub Apps and GraphQL - GitHub Satellite 2020
+2020-05-08,ECdxifljjE4,ART MACHINES: fostering digital creativity through live coding and ML - GitHub Satellite 2020
+2020-05-07,dy2eYaNxaQc,How to get from idea to contribution in minutes - GitHub Satellite 2020
+2020-05-08,U8NpT_myO9A,Algorithmic Positivity Symphony - GitHub Satellite 2020
+2020-05-08,5LlTto6NIFA,The Weird Algorithm - GitHub Satellite 2020
+2020-05-08,UKVNmHCxwk4,Building a Fantasy Game Console - GitHub Satellite 2020
+2020-05-08,sRLWIAPaiRI,Creative Coding in p5.js - GitHub Satellite 2020
+2020-05-08,Qyoz5p6WZUg,Frontiers of neural arts - GitHub Satellite 2020
+2020-05-08,0OHzS5lOlpo,Creative Machine Learning with RunwayML - GitHub Satellite 2020
+2020-05-08,QD_frigh5ak,Livecoded Compositions - GitHub Satellite 2020
+2020-05-08,-8YgwVJQlYw,Coding Augmented Reality Live - GitHub Satellite 2020
+2020-05-08,-_9TliNB8k0,Lockdown Algorave - GitHub Satellite 2020
+2020-05-08,nQRRVR3Usag,HIPERSONICA - GitHub Satellite 2020
+2020-05-08,6ADAoz34KHU,Hiperfragmentación - GitHub Satellite 2020
+2020-05-08,7AYAKxLi7Mw,Ponicode AI Rap Battle - GitHub Satellite 2020
+2020-05-08,dJbMImgvnKU,Sam Aaron - GitHub Satellite 2020
+2020-05-07,T6sW1Dk9B4E,What every GitHub user should know about VS Code - GitHub Satellite 2020
+2020-05-07,7P9JDf4Lc0Y,Using GitHub Actions and HashiCorp Terraform - GitHub Satellite 2020
+2020-05-07,FOLCaZ9CbzA,Putting GitHub at your fingertips - GitHub Satellite 2020
+2020-05-07,0SAtaNjdViI,A lap around GitHub One - GitHub Satellite 2020
+2020-05-07,rOaShvTmZFk,Accelerating cloud native deployment with GitHub Actions and AWS - GitHub Satellite 2020
+2020-05-07,UVV26xOgdP0,Building Stripe’s remote hub: scaling distributed teams - GitHub Satellite 2020
+2020-05-07,-2UgL63_yB4,Ship it with GitHub Actions and GitHub Packages - GitHub Satellite 2020
+2020-05-07,fZKQI-ER6xw,Defenders guide to cloud native infrastructure security - GitHub Satellite 2020
+2020-05-07,SsP8UEF8uRM,Open source for good: COVID-19 Responses - GitHub Satellite 2020
+2020-05-07,GtLZp6DbcE4,"Dependency hell - Or, Developers' perception of software dependencies - GitHub Satellite 2020"
+2020-05-07,468tirG434E,The JavaScript coders guide to getting more from GitHub and NPM - GitHub Satellite 2020
+2020-05-07,kCo0OJZHRX8,Credential mitigation in large-scale organizations - GitHub Satellite 2020
+2020-05-07,ZLQzMSItzcU,Save precious time with GitHub Actions - GitHub Satellite 2020
+2020-05-07,58N0_0HCDPE,Stopping vulnerabilities at the source - GitHub Satellite 2020
+2020-05-07,L618Pp0n7us,Opening Keynote - GitHub Satellite 2020
+2020-05-07,TwA6zBw8SJ8,Taking collaboration beyond the code in GitHub - GitHub Satellite 2020
+2020-05-07,XwKTUji5HtY,Securing the software supply chain together - GitHub Satellite 2020
+2020-05-07,Y_mjvrX7u-w,Why innersource is a critical component of FOSS sustainability - GitHub Satellite 2020
+2020-05-07,TG_L1x5bM5M,Top 10 tips for project maintainers - GitHub Satellite 2020
+2020-05-07,EcmqlVjZXNw,Fast & Security - GitHub Satellite 2020
+2020-05-07,lP-VUmkbq0w,Catch bugs & vulnerabilities with the SonarCloud Action  - GitHub Satellite 2020
+2020-05-07,TGjVVpGLOGw,Saved replies for better and faster communication - GitHub Satellite 2020
+2020-05-07,cjzGxDEFcu8,Taking issues from good to great with a label style guide - GitHub Satellite 2020
+2020-05-07,hkEMANziAvA,Training ML models directly from GitHub - GitHub Satellite 2020
+2020-05-07,07FfdeekVqI,"Code risk, compliance and security action for PRs on Node.js - GitHub Satellite 2020"
+2020-05-07,PqA5Cnf7T4w,Avoid Git-blame with suspect commits - GitHub Satellite 2020
+2020-05-07,afkI-8jA1GU,DevOps tips for GitHub apps: tweaks for staging apps - GitHub Satellite 2020
+2020-05-07,edhL-XL0oOI,Cloud security best practices with CloudFormation and GitHub Actions - GitHub Satellite 2020
+2020-05-07,uNX3Rty_QzA,Implementing terraform security best practices using Github Actions - GitHub Satellite 2020
+2020-05-07,-xrFNFby7hc,Async workflows with repository dispatch - GitHub Satellite 2020
+2020-05-07,qdgnRct0_nw,GitHub Satellite Virtual 2020 - Play
+2020-05-07,FhZTPM9ysWk,GitHub Satellite Virtual 2020 - Work
+2020-04-30,hP9pE-OKwSA,Neil Matatall: Managing content security policy and samesite cookies
+2020-04-30,aY5pIuxRixs,Alyssa Miller: DevSecOps compatible threat modeling
+2020-04-30,a1qrjtrmOj0,Stefan Edwards and Robert Tonic: Go-ing for an evening stroll
+2020-04-30,Eos48e0vSXM,Andrea Brancaleoni - InQL: GraphQL Security Testing Made Easy
+2020-01-25,AefLSAhXtBY,"Github Security Meetup  Jan 22, 2020 - San Francisco"
+2020-01-15,zDNDTCG8Oko,GitHub Game Off 2019 Highlights
+2019-12-14,0ahRkhrOePo,Advanced GitHub Actions: workflows for production grade CI/CD - GitHub Universe 2019
+2019-12-17,BctzNj1RcPU,Changing work culture through documentation - GitHub Universe 2019
+2019-12-17,oFjffeGcbV4,Driving ethical change for AI across your organization - GitHub Universe 2019
+2019-12-17,GayKuDpi97o,Don't be a robot: Automating workflows at scale - GitHub Universe 2019
+2019-12-09,CFvwIX-gjSI,Panel: Open source in Africa - GitHub Universe 2019
+2019-12-17,D0p572DrNfI,Building an open source community from the ground up - GitHub Universe 2019
+2019-12-17,GCLgdOiPA6o,The city guide to open source - GitHub Universe 2019
+2019-12-16,iCOmzYEGavo,Deep dive into GitHub's newest features - GitHub Universe 2019
+2019-12-16,YoWkuFzEYFs,A data-driven look at practices behind exemplar open source projects - GitHub Universe 2019
+2019-12-16,04TTRJArpVw,Ship happens: shipping pull requests at scale with the merge queue - GitHub Universe 2019
+2019-12-16,Ll50l3fsoYs,Machine learning operations with GitHub Actions and Kubernetes - GitHub Universe 2019
+2019-12-16,i5pIszu9MeM,Advanced patterns for GitHub's GraphQL API
+2019-12-16,tg_iTZKhpeA,Panel: Women in open source - GitHub Universe 2019
+2019-12-16,-pyqoLI4yfU,Social sector and open source - GitHub Universe 2019
+2019-12-14,oYDgVKPRmAs,GitHub Archive Program Partner Panel - GitHub Universe 2019
+2019-12-15,bZwlD6rh3FA,Secure container development workflows with Anchore and GitHub Actions- GitHub Universe 2019
+2019-12-09,4hBtFYNnBfg,State of the Octoverse - GitHub Universe 2019
+2019-12-15,lf742-K_dAY,Panel: Embracing open source in risk-averse organizations - GitHub Universe 2019
+2019-12-15,R9JvD7hzJBg,Applying the GitHub security development lifecycle to your project - GitHub Universe 2019
+2019-12-15,DDaJHR0DngE,Source code consolidation at Expedia Group - GitHub Universe 2019
+2019-12-15,sBvEPKdA540,What does it take to transform a federal agency to a product-focused enterprise? -GitHub Universe 19
+2019-12-15,JjWptlLRX4A,"Going global: Challenges, considerations, and tips - GitHub Universe 2019"
+2019-12-15,yN2etNsLUfw,How visualization helps developers - GitHub Universe 2019
+2019-12-14,MI-bZ-z1X7o,The modern mainframe: GitHub for social coding and mainframe app development - GitHub Universe 2019
+2019-12-14,KlO5Ksk7baQ,Building and deploying modern websites and apps - GitHub Universe 2019
+2019-12-14,4wbxxzDp98c,Insights into GitHub Enterprise: How IBM tracks social coding - GitHub Universe 2019
+2019-12-14,ihul33Y7DUk,Agility and security: Navigating the enterprise balancing act - GitHub Universe 2019
+2019-12-14,5bvafq4zSUo,Actions Packaged: Using GitHub Actions and GitHub Package Registry - GitHub Universe 2019
+2019-12-14,EOy7-lhPV5g,The code behind cars: How GitHub turned Ford into a software company - GitHub Universe 2019
+2019-12-14,cRJZldsHS3c,The elusive quest to measure developer productivity - GitHub Universe 2019
+2019-12-14,Y6NoxXD3Js4,Taking GitHub to go - GitHub Universe 2019
+2019-11-15,7TuUkhJ4wG0,Day 1 Keynote Highlights - GitHub Universe 2019
+2019-11-14,9i-nvqPe5Rs,GitHub for Mobile - GitHub Universe 2019
+2019-11-15,afcqKcs1zMo,Improve your daily experience - GitHub Universe 2019
+2019-11-15,1sQ-m-NHidw,Supporting the Community - GitHub Universe 2019
+2019-11-15,fRqaN9Nhwjs,From code to cloud - GitHub Universe 2019
+2019-11-15,jImkk1BxGa4,The state of Open Source - GItHub Universe 2019
+2019-11-13,fzI9FNjXQ0o,GitHub Arctic Code Vault
+2019-11-15,VnaK_ONmtC4,Day 2 Keynote - GitHub Universe 2019
+2019-11-13,9EoNqyxtSRM,Day 1 Keynote - GitHub Universe 2019
+2019-11-04,e_zhHQXTwVo,Celebrating the developers of GitHub Sponsors
+2019-10-17,wXeI_019MDo,ENGIE Digital : Accelerating with innersource
+2019-09-24,STWzZsg973o,Bring innovation to work with GitHub Enterprise
+2019-09-18,ekHXeRUldE0,Spotlight on secure software development - Live from GitHub HQ
+2019-08-08,E1OunoCyuhY,GitHub Actions - Now with built-in CI/CD! Live from GitHub HQ
+2019-07-01,gQJIOZ8_Hug,GitHub Satellite 2019 Highlights
+2019-06-17,RtZdbZiPeK8,Pull Panda joins GitHub!
+2019-05-30,tHpPg1J55PQ,Keynote Highlights - GitHub Satellite 2019
+2019-05-29,_RQBNCOU0RM,In the Shadow of the Black Hole - GitHub Satellite 2019
+2019-05-31,bPsvHe-F9SA,Open source in the enterprise - GitHub Satellite 2019
+2019-05-31,nhA2FcCqQVE,Open source for good: the people and projects driving change - GitHub Satellite 2019
+2019-05-31,O9ZSoralu0E,Tribes at ENGIE Digital: when shiny tools don't make it all - GitHub Satellite 2019
+2019-05-30,16gRNL8kCwA,Innersource: open source collaboration patterns beyond public FOSS projects - GitHub Satellite 2019
+2019-05-30,2psQDViMGlc,GitHub as a self-sustaining product for large-scale environments - GitHub Satellite 2019
+2019-05-30,bFNqaoHSUIQ,Maintaining the maintainers: supporting open source tools - GitHub Satellite 2019
+2019-05-29,8IM85gmpVVQ,Continuous deployment at Skyscanner - GitHub Satellite 2019
+2019-05-29,Kg3k_K65J5o,Intersource is GitHub culture and open source principles - GitHub Satellite 2019
+2019-05-25,E5GDI__r_Is,The interconnected community - GitHub Satellite 2019
+2019-05-25,e01LOzSqDCI,New ways to keep your code secure - GitHub Satellite 2019
+2019-05-25,P2Goi3QRMmo,Build like an open source community with GitHub Enterprise - GitHub Satellite 2019
+2019-05-25,FYkBA9epUEk,A new way to contribute to open source - GitHub Satellite 2019
+2019-05-25,4LDgzgfX0Us,Continuous Integration and Deployment: Five Lessons Learned - GitHub Satellite 2019
+2019-05-27,HpqM7kL_ACY,Open source security: who’s responsible? - GitHub Satellite 2019
+2019-05-27,OVizrLvi77U,"Software security, trust, and public policy - GitHub Satellite 2019"
+2019-05-25,zxwJOnkxJLA,Running GitHub Enterprise at scale in your organization - GitHub Satellite 2019
+2019-05-25,n47rCa9dxf8,There and back again: Through the realms of open source software - GitHub Satellite 2019
+2019-05-25,T9QCKPoaQJ0,Open source security: advisories and workflows to keep open source secure - GitHub Satellite 2019
+2019-05-25,sGC2rwOiaWc,Keynote - GitHub Satellite 2019
+2019-05-23,U2eWLb-LD44,Open source: an interconnected community
+2019-05-10,N_-Cu9_2YAA,Introducing GitHub Package Registry
+2019-04-27,okcIiY_wjoA,Game On—what was it like to make games during the 80's?
+2019-03-14,f_G1vwynxTg,"Gitbase, SQL interface to Git repositories - Git Merge 2019"
+2019-03-11,Gna85Tk4JOw,The future of free software - Git Merge 2019
+2019-03-14,wfKXJNbAcQ8,Tales in scalability: how Google has seen users break Git - Git Merge 2019
+2019-03-14,J_RekbDzWrE,"The what, how and why of scaling repositories - Git Merge 2019"
+2019-03-14,qHERDFUSa14,Bridging the gap: transitioning Git to SHA-256 - Git Merge 2019
+2019-03-13,8soFbJkbdFQ,Git protocols: still tinkering after all these years? - Git Merge 2019
+2019-03-13,0sRHRMp-Bpc,Native Git support for large objects - Git Merge 2019
+2019-03-13,K3zOhU3NdWA,Git for games: current problems and solutions - Git Merge 2019
+2019-03-13,SmLpJEZyvI0,Version control for law: Posey Rule in the U.S. Congress - Git Merge 2019
+2019-03-12,4S3h5L21KlA,The art of patience: why you should bother teaching Git to designers - Git Merge 2019
+2019-03-12,5-JMOTy_9OE,"Git, the annotated notepad - Git Merge 2019"
+2019-03-12,lj0F2Usb9ao,Version control for visual learners - Git Merge 2019
+2019-03-12,SzEBzQrwxFk,Git & version control in the enterprise - Git Merge 2019
+2019-03-11,vat97a8C0o0,Technical contributions towards scaling for Windows - Git Merge 2019
+2019-03-11,NPE7rA5887c,How a Git based education cultivates more resilient developers - Git Merge 2019
+2018-12-24,vTZn5KaZo8w,GitHub Game Off 2018 Highlights
+2018-12-13,v16uzPYho4g,The Future of Software Intelligence: a Fireside Chat
+2018-10-31,9qBOY2pawAE,"Opening Keynote Highlight - Spencer Kaiser, American Airlines - GitHub Universe 2018"
+2018-11-10,6gh9CcC_i5c,Observability pre-release: Using Prometheus to test and fix new software - GitHub Universe 2018
+2018-11-10,rRWgVFPk7fY,Migrating from Gerrit to GitHub Enterprise - GitHub Universe 2018
+2018-11-09,47VOcGGm6aU,From Monorail to Monorepo: Airbnb's journey into microservices - GitHub Universe 2018
+2018-11-09,_E3f6v7zHP8,Is your engineering team high-performing? - GitHub Universe 2018
+2018-11-08,V4yF9rza14s,From side project to profitable business on GitHub Marketplace - GitHub Universe 2018
+2018-10-24,NFL9TLHHmDA,State of the Octoverse - GitHub Universe 2018
+2018-11-10,zCNu2tit9MA,Ship-It – Build & deploy your open source projects with Azure Pipelines - GitHub Universe 2018
+2018-11-09,tD7n1vKdxcQ,Collaborating across the stack with GitHub and GraphQL - GitHub Universe 2018 - GitHub Universe 2018
+2018-11-10,L19lgbIPQZs,Innersource and the power of automation at Eli Lilly - GitHub Universe 2018
+2018-11-09,dqxaYiVqJFg,Building an agile AI research-to-production experience - GitHub Universe 2018
+2018-11-08,GXgfPzpbQ0o,Cross-company collaboration: Extending GitHub to a new IDE - GitHub Universe 2018
+2018-11-10,PqztZQkpq8Y,Developing software engineers to catalyze the world’s tech ecosystems - GitHub Universe 2018
+2018-11-10,1wdTw_mukEU,Let me entertain you: How theater can influence developer communities - GitHub Universe 2018
+2018-11-09,xe0NWI9kImE,Developer stories: Addressing Social problems with code - GitHub Universe 2018
+2018-11-09,SaWy2IDC88I,The keys to open source success for enterprise teams - GitHub Universe 2018
+2018-11-08,fk18IGJPGbU,A journey into open development with Lloyds - GitHub Universe 2018 - GitHub Universe 2018
+2018-11-08,M72wlFr6INY,Deep dive into GitHub’s newest features - GitHub Universe 2018
+2018-11-07,YmdqxzX6KAc,Infrastructure as product: Building GitHub's future - GitHub Universe 2018
+2018-11-06,aYctKwffLXc,Baking security into GitHub workflows without slowing you down - GitHub Universe 2018
+2018-11-06,mXCDObNkScM,Leveling up WebAssembly itself: Going from MVP to brave new world - GitHub Universe 2018
+2018-11-08,8VsbNHOPQbI,Seven things you won't believe Atom can do - GitHub Universe 2018
+2018-11-07,Cnx8sY6B8zQ,GitHub Learning Lab: Teaching robots to teach - GitHub Universe 2018
+2018-11-07,aQQN5Tn66BA,"Fiona Tan, SVP Walmart Labs, on why the future needs more women who code - GitHub Universe 2018"
+2018-11-06,_yPml1iTbmM,Connecting your software lifecycle with GitHub’s platform - GitHub Universe 2018
+2018-11-06,Ei0no8s84EM,Integrating continuous integration and deployment with GitHub’s API - GitHub Universe 2018
+2018-11-08,-lqwIjvWdyA,From millions of OAuth tokens to GitHub Apps - GitHub Universe 2018
+2018-11-07,90JWZnuf7xQ,API mashup: Combining APIs using GraphQL schema stitching - GitHub Universe 2018
+2018-11-07,p8nrtIvSxt4,Code you can hold: Making your first IoT wearable - GitHub Universe 2018
+2018-11-06,oOqPM-UAnYU,GitHub Enterprise at scale: Behind the scenes at Salesforce.com - GitHub Universe 2018
+2018-11-06,fD41AwgC_xM,Moving from mono to multi: How Continental manages a distributed code base - GitHub Universe 2018
+2018-10-24,FhQNvJuSl3k,Open source for good: The people and projects driving change - GitHub Universe 2018
+2018-10-24,HpxH7mu-bgA,Built to grow: How the world's largest company creates a codebase that scales - GitHub Universe 2018
+2018-10-24,iMiydtB2vEU,Day 2 Keynote - GitHub Universe 2018
+2018-10-24,vB5nTx5fUXM,Opening Keynote - GitHub Universe 2018
+2018-10-12,9TzIHpQfBsw,"Building the Future—Jamica “afroDJiak” El, Creative Technologist"
+2018-10-03,kDwZ1_RpkFM,"Building the Future—Julius Sweetland, OptiKey"
+2018-10-04,f03ZmbZB5Do,"Building the Future—Conrad Holloman, Operation Code"
+2018-09-20,T7ZQhooMMDo,Building the Future—Tiffani Ashley Bell
+2018-09-13,HzZxcfVn_08,Building the Future
+2018-09-07,Sm_p3sf9kq4,How developers can defend open source from the EU copyright proposal
+2018-07-31,Yhul2qf0PaM,パネルディスカッション：Rubyが生まれた頃、そしてこれからのRuby - GitHub Satellite 2018
+2018-07-31,nKW3E0RTd3Y,OpenSTFをオープンした結果 - GitHub Satellite 2018
+2018-07-31,wE_aDY23qy0,プログラミングができないデザイナーがOSS活動をして感じたこと - GitHub Satellite 2018
+2018-07-31,x4LMUp3ND7o,Microservices in ABEJA Platform - 集約と分散のサービス設計 - GitHub Satellite 2018
+2018-07-31,G9m0npXLRE0,GitHub Marketplaceと、開発生産性を向上させる幾つかのSaaSのご紹介 - GitHub Satellite 2018
+2018-07-31,YiOt9aj55wI,GitHub Enterpriseアドミンパネルディスカッション - GitHub Satellite 2018
+2018-07-24,QDiuUuLKrVQ,基調講演：ソフトウェア開発の未来 - GitHub Satellite Tokyo 2018
+2018-07-24,8jGA7nKCKtA,基調講演：GitHub Enterpriseプロダクトビジョン - GitHub Satellite Tokyo 2018
+2018-07-24,un3M5ddrw0w,What’s new with GitHub ~ GitHub as a platform - GitHub Satellite Tokyo 2018
+2018-07-24,3FwiEKodlP0,企業開発に役立つGitHubの最新機能 - GitHub Satellite Tokyo 2018
+2018-07-24,_uXDUvwkPI4,SlerがGitHub Enterpriseを使ったら - GitHub Satellite Tokyo 2018
+2018-07-24,OMdGyHP7V9Y,DMM.comのGitHub EnterpriseとCircleCI Enterpriseの活用例 - GitHub Satellite Tokyo 2018
+2018-07-24,tTpeQFbTfDg,GitHubを軸とした開発プロセスのリプレイス - GitHub Satellite Tokyo 2018
+2018-07-24,9DZSty2KsJ8,GitHubと共に学生を育てる方法 - GitHub Satellite Tokyo 2018
+2018-07-24,dEOrzSif7KQ,パネルディスカッション：ソフトウェア開発の変遷と、これから - GitHub Satellite Tokyo 2018
+2018-07-24,P2Jj9gNAexY,GitHub LT大会 ~ 事件は現場で起きている!? - GitHub Satellite Tokyo 2018
+2018-06-08,Wf45lJ4FMpU,Coding to save our coral reefs
+2018-04-11,hQXV70Z4cFI,Thank you for 10 years of code
+2018-03-31,MfIi3d7UAhs,Opening Session - Git Merge 2018
+2018-03-31,rWo43r5_jpc,In Plain Sight: Securing code with an open source workflow - Git Merge 2018
+2018-03-31,jcN6UgPN7zA,Backing up large amounts of Git data - Git Merge 2018
+2018-03-31,FX5NbIeQfP4,Security issues in Git - Git Merge 2018
+2018-03-31,A-lNv6Szu3M,Designers Git-It; A unified design system workflow - Git Merge 2018
+2018-03-31,pY5i0Io86UQ,Empowering non-developers to use Git - Git Merge 2018
+2018-04-01,e9K1gHYIE2c,Git driven refactoring - Git Merge 2018
+2018-04-01,hvQeWJSDwkE,Getting Git right - Git Merge 2018
+2018-04-01,eUQ6KXvItK8,Annotating diffs - Git Merge 2018
+2018-04-02,m6ZOCpS20cw,Automating the non-automatable; merging refactored code - Git Merge 2018
+2018-04-02,oOMzi983Qmw,Making Git for Windows - Git Merge 2018
+2017-12-20,ZtylGDR6_Y0,Improving Your Workflow With GitHub's API - GitHub Universe 2017
+2017-12-01,DsA3MNlz6BU,What can we learn from 750B GitHub events and 42 TB of code? - GitHub Universe 2017
+2017-11-29,fsvlzHF6NNg,Fine Tuning Your GitHub Flow: A Deeper Dive Into GitHub Workflows - GitHub Universe 2017
+2017-11-29,VdwO3LQ56oM,The unbearable vulnerability of open source - GitHub Universe 2017
+2017-12-20,a1rC79DHpmY,Tree-sitter: a new parsing system for programming tools - GitHub Universe 2017
+2018-01-12,r4WspUk-gkw,How legal Hubbers GitHub - GitHub Universe 2017
+2017-11-27,GH3P4nen5hQ,Electron: keeping an ion it - GitHub Universe 2017
+2018-01-12,MwSUVNBc_7M,"Building, scaling, and selling GitHub integrations - GitHub Universe 2017"
+2017-11-27,v-payqn0K6I,Why I decided to become a superhero of the social world - GitHub Universe 2017
+2017-11-29,UilD5IusWHM,Queer youth vs. technology - GitHub Universe 2017
+2018-01-13,YA0Cgjca_EE,The emotionally fit leader - GitHub Universe 2017
+2017-12-02,SR70v4Rn3js,Building a tech community within an African society - GitHub Universe 2017
+2017-12-20,q1u6Q_jch9A,Algorithmic biases in AI and machine learning - GitHub Universe 2017
+2017-12-20,eHWPkOVoJW8,Building a better browser engine on GitHub - GitHub Universe 2017
+2017-11-30,SQImqxe7WfY,Using GitHub's GraphQL API to manage open source projects - GitHub Universe 2017
+2018-01-13,KvySt3yt5vs,Tracking And Automating Software Infrastructure With GitHub - GitHub Universe 2017
+2017-12-20,kb2VRTeWG5Y,Tools as a catalyst for culture change - GitHub Universe 2017
+2018-01-13,w_e89rkpagA,Quickly Build a Collaborative CMS Powered by the GitHub API - GitHub Universe 2017
+2017-11-27,sHTYEkoymd4,Nationwide's GitHub Conversion - No IT Project Needed - GitHub Universe 2017
+2017-12-01,IiM-5V_usFA,Interop's Labyrinth: Sharing Code Between Web & Electron Apps - GitHub Universe 2017
+2017-12-02,biv6d361N5I,Building diverse data communities with Jupyter Notebooks - GitHub Universe 2017
+2017-12-20,RGIV75r2H-Y,Accessibility: it's more than just screen readers - GitHub Universe 2017
+2018-01-13,fFu-s8wzlIw,Fostering open source culture for healthier minds - GitHub Universe 2017
+2017-11-30,vZI9d2hFpLc,"Regulated industries, limitless possibilities - GitHub Universe 2017"
+2017-11-30,KGKI7hXGAZ8,Migrating to GitHub Enterprise safely and seamlessly - GitHub Universe 2017
+2017-11-29,D-5tHyP0nqM,Managing GitHub At Scale - GitHub Universe 2017
+2017-12-20,75y3VSu0xdo,Isolating microservices without sacrificing velocity - GitHub Universe 2017
+2018-01-13,kB-3vvtdLxw,Caring For Your Fellow Developers - GitHub Universe 2017
+2018-01-13,YJagVNzSUk0,Building CS50 with GitHub - GitHub Universe 2017
+2017-11-27,5Yu3qCP-pxw,Launching GitHub's public GraphQL API - GitHub Universe 2017
+2017-11-30,mGZu5MzTtMA,How tech policy is shaping the future of software - GitHub Universe 2017
+2018-01-13,DKhgrFmNTAg,Having an invisible disease at GitHub - GitHub Universe 2017
+2017-12-20,rK8yHl0cHoc,GitHub Driven Refactoring - GitHub Universe 2017
+2018-01-13,AJXDdkd9U7M,Extending with GitHub: easy integrations with Probot - GitHub Universe 2017
+2018-01-13,zco_D0uvE5w,Balancing identity & privacy: building tools to help users - GitHub Universe 2017
+2017-12-06,53qGVTSUoFA,GitHub Universe 2017
+2017-11-16,YyPfkv8g-k4,Game Off is Back
+2017-10-25,1KxV-zwcTa4,Mine The Music: Searching Efficiently With Open Source - GitHub Universe 2017
+2017-10-25,LXu80xXwFY0,Microsoft Loves Open Source: Becoming The Largest Contributor - GitHub Universe 2017
+2017-10-25,exfc7-hzUQg,How GitHub Combined with CI Empowers Rapid Product Delivery - GitHub Universe 2017
+2017-10-25,v9v6BUTrK_g,Advanced GitHub Enterprise Administration - GitHub Universe 2017
+2017-10-25,mBtIyVs7ieQ,Pushing The Boundaries On Video Understanding - GitHub Universe 2017
+2017-10-25,IaFZDxoTZ4c,Fireside Chat with Charity Majors - GitHub Universe 2017
+2017-10-25,RMtga2JfkT4,Opening Keynote Day 2 - GitHub Universe 2017
+2017-10-25,wtSSM6xvTzI,Transformative Change In Challenging Times - GitHub Universe 2017
+2017-10-25,VR_0t3KvpNc,Building Inclusion From The Inside Out - GitHub Universe 2017
+2017-10-25,4_umRysuFjU,Opening Keynote - GitHub Universe 2017
+2017-10-11,f0BzD1zCye0,GitHub Universe 2017 - Better Together
+2017-10-11,WVQe1ZE7FtU,I am a Developer - Lisa Lang
+2017-10-11,2Hjodq3JdoI,I am a Developer - Mario Ponce
+2017-10-11,EkWzOTsKvz8,I am a Developer - Amy Dickens
+2017-10-11,u4tq9Ef5czw,I am a Developer - Alicia Carr
+2017-06-29,U_AzYcJFwb4,GitHub Satellite 2017
+2017-09-18,lqMwTToOojk,Octotales - Inselect
+2017-10-12,64gaATwzXvE,Global Software Development with InnerSource - GitHub Satellite 2017
+2017-10-12,jsDdUSxXhW0,Openness @ King: Our Journey Towards Collaboration with GHE - GitHub Satellite 2017
+2017-10-12,DF2OHLau9uA,A Data Driven Approach to Leading Software Teams - GitHub Satellite 2017
+2017-10-11,vS5hct55p40,Modernizing Software Architecture - GitHub Satellite 2017
+2017-10-11,Q54e40V9Vg4,Building Interconnected Workflows - GitHub Satellite 2017
+2017-10-10,K0svhmx0nRE,Empowering Environmental Science with Open Tools & Data - GitHub Satellite 2017
+2017-10-10,DRJIjwhLQSI,How to Avoid Creating a GitHub Junkyard - GitHub Satellite 2017
+2017-10-09,yb9Svh1ETlc,It's not just for code! Git and GitHub as a platform for Open Education
+2017-10-08,T80VOqmMd5I,GitHub Beyond Your Browser - GitHub Satellite 2017
+2017-10-08,3mV-jIObiBw,From WiT to WiTtier - Growing a Women in Tech community in Nottingham - GitHub Satellite 2017
+2017-10-07,bUxXjfmUDYs,Teaching GitHub Flow with LEGO and Arduino - GitHub Satellite 2017
+2017-10-07,moDdhDxzg2k,Git Tips & Tricks - GitHub Satellite 2017
+2017-10-06,CBJMCt9bAbM,The Secret Life of Monoliths - GitHub Satellite 2017
+2017-10-06,PpFaKCzKsYA,Integrating With GitHub - GitHub Satellite 2017
+2017-10-05,o_MBuszB39M,Opening Keynote - GitHub Satellite 2017
+2017-10-05,TlQcwNnqpnE,The Power of the Open Source Community - GitHub Satellite 2017
+2017-05-22,_HjToekoEMk,GitHub Marketplace
+2017-05-20,8CUPVB8tKoY,Git Simple: Writing primary git functionalities in Ruby - Git Merge 2017
+2017-05-20,WfwwFyE-ckQ,Repo 911 - Git Merge 2017
+2017-05-20,2UKd0YMuc-M,Greatest Hits of the Git Maintainers Room - Git Merge 2017
+2017-05-19,M75aENmuzmo,Jedi Mind Tricks for Git - Git Merge 2017
+2017-05-19,0EubYhsX-No,The Battle for Sub-premacy - Git Merge 2017
+2017-05-18,54Yh0YyC-4Q,"Git and the Terrible, Horrible, No Good, Very Bad Day - Git Merge 2017"
+2017-05-18,GRO9Ho8iXds,Trust But Verify - Git Merge 2017
+2017-05-17,usQgAy8YDVA,Git for Pair Programming - Git Merge 2017
+2017-05-17,_gyLZVjekbo,Lightning Talks - Git Merge 2017
+2017-05-16,3IIaOj1Lhb0,Git Aliases of the Gods!  - Git Merge 2017
+2017-05-16,Q7i_qQW__q4,Git LFS at Light Speed - Git Merge 2017
+2017-05-16,gOVD-DrUpwQ,Scaling Mercurial at Facebook: Insights from the Other Side - Git Merge 2017
+2017-05-24,-AQl98fItmQ,Git: The Tool Loved and (sometimes) Feared - Git Merge 2017
+2017-05-16,31XZYMjg93o,What’s Wrong With Git? - Git Merge 2017
+2017-05-04,g_MPGU_m01s,Scaling Git at Microsoft - Git Merge 2017
+2017-05-04,-ZNKR9wFe8o,Top Ten Worst Repositories to host on GitHub - Git Merge 2017
+2017-05-03,CKwuPQqOi_4,Software Freedom Conservancy - Git Merge 2017
+2017-06-08,PqBatpCmRf0,"Crescent Wrenches, Socket Sets, and Other Tools For Debugging - CodeConf 2016"
+2017-06-08,KoUhdhZmdWM,Twitter Heron In Practice - CodeConf 2016
+2017-06-07,RRf6ye7GSB0,Enabling Data-Driven Public-Private Collaborations - CodeConf 2016
+2017-06-07,EMOnUvcnHa0,Behavior Design: Teaching Your Users' Security - CodeConf 2016
+2017-06-07,_sJTbLvhTVg,Design for Non-Designers - CodeConf 2016
+2017-06-07,Usgh19es_oE,"From closed to open, a tale about Parse - CodeConf 2016"
+2017-06-06,PRAT0BK6Ahw,The HashiCorp Formula to Open Source - CodeConf 2016
+2017-06-06,GBj7xOtue0c,Emerging Models for Open Source Contributions - CodeConf 2016
+2017-06-06,G3Z0F8Tw13Y,"Let's Encrypt: A Free, Automated, and Open Certificate Authority - CodeConf 2016"
+2017-06-05,-wSwlLeKFdE,What happens when military veterans learn to code - CodeConf 2016
+2017-06-05,MGKKqE915ag,Lending Privilege - CodeConf 2016
+2017-06-05,OsOZpF6LFcw,The Open Source Contributor Funnel: Turning Users Into Maintainers - CodeConf 2016
+2017-06-05,d6iFXlsObFI,The heart of npm - CodeConf 2016
+2017-06-03,RHDP_KCrjUc,Distributed Consensus with Raft - CodeConf 2016
+2017-06-03,56ftygaP68I,Natural language analysis of Bowie's personas - CodeConf 2016
+2017-06-03,407nwX6__70,Rust's Community Automation - CodeConf 2016
+2017-06-03,NE9253C3isY,Rust: Systems Programming for Web Developers - CodeConf 2016
+2017-06-02,SdVlJVevgeQ,12 Factor Apps and Kubernetes - CodeConf 2016
+2017-06-02,yiiDFRs62lQ,The Perfect Programming Language - CodeConf 2016
+2017-05-03,tvymSWfvkjw,Git Merge 2017 Recap
+2017-02-08,paS09pRV8bY,Maintainer Stories — Amjith Ramanujam
+2017-02-08,us_3IGG6leM,Maintainer Stories — Eric Holscher
+2017-02-08,MjKwvdF7SrA,Maintainer Stories — Katrina Owen
+2016-12-19,w3jLJU7DT5E,What is GitHub?
+2016-11-28,6VTYwbnZdQM,The Octocat Plushie
+2016-10-26,z_4B9oVGa3k,The People's Code - GitHub Universe 2016
+2016-10-12,rN4cMAGPRQ0,Introducing New Workflow Improvements: Code Review & Projects - GitHub Universe 2016
+2016-10-07,uG1zzGNPDnU,Game Off Returns
+2016-09-28,Uflvf8l0NLY,Developing Open Source in Service to National Security - GitHub Universe 2016
+2016-09-28,DY0yNRNkYb0,Building Reliability with Spokes - GitHub Universe 2016
+2016-09-28,fJpp0s_GN3s,Transforming Tribal Knowledge into Learning Trees - GitHub Universe 2016
+2016-10-25,5ABos9UTfJU,Building and Scaling a Distributed and Inclusive Team - GitHub Universe 2016
+2016-09-28,jArFW_GpxE4,Crossing the Canyon of Cognizance: A Shared Adventure - GitHub Universe 2016
+2016-09-28,FdH8-4tV8v8,Measuring the Value of GitHub Enterprise - GitHub Universe 2016
+2016-09-28,FNHBfN8c32U,Electron: Desktop Apps with Web Languages - GitHub Universe 2016
+2016-09-28,tFIOu_KEr-4,Crossing the Language Divide in Open Source Projects - GitHub Universe 2016
+2016-09-28,LsxDxL4PYik,Tips & Tricks: Gotta Git Them All - GitHub Universe 2016
+2016-09-28,Eqg_IqVeI5s,"Making Electron Development Simpler, More Pleasant, and More Productive - GitHub Universe 2016"
+2016-09-28,pJFM321_lAs,Code Review is an Architectural Necessity - GitHub Universe 2016
+2016-09-28,0CLYWi8wSyk,Making online collaboration safer at GitHub - GitHub Universe 2016
+2016-09-28,_dk4SxkpLc8,GitHub Integrations - GitHub Universe 2016
+2016-09-28,yQZ7JBh9VDU,Pains & Gains: Five Short Stories - GitHub Universe 2016
+2016-09-28,dKGSVTNw7ZU,"YesSQL, process and tooling at scale - GitHub Universe 2016"
+2016-09-28,wPPFhcqGcvk,Implementing and Using GraphQL at GitHub - GitHub Universe 2016
+2016-09-28,sDKN-xyqcNc,"InnerSource: Reaping the Benefits of Open Source, Behind Your Firewall"
+2016-09-28,2zksJnRSgv0,gh-ost: GitHub's online schema migrations tool for MySQL - GitHub Universe 2016
+2016-09-28,UB283wKxiqU,Managing GitHub at Scale - GitHub Universe 2016
+2016-09-28,8Nvg-MMtN_A,Lending Privilege - GitHub Universe 2016
+2016-09-28,juLIxo42A_s,The GitHub Flow - GitHub Universe 2016
+2016-09-23,W0bVyxi38Bc,Machines Making Movies - GitHub Universe 2016
+2016-09-20,ivsfZjvc1-4,99% Invisible - GitHub Universe 2016
+2016-09-20,4Iem6JK6PtY,Blurry Lines - GitHub Universe 2016
+2016-09-20,yvB6BqYs2T0,How GOV.UK Changed Government - GitHub Universe 2016
+2016-09-20,rzwdi4iSzBQ,The Police Data Initiative - GitHub Universe 2016
+2016-09-20,aDOGeBqEDsA,Fireside Chat with Bret Taylor - GitHub Universe 2016
+2016-09-20,u9s_W8lCrDU,Opening Keynote - GitHub Universe 2016
+2016-09-20,0A-u1tQTBqo,The New Developer - GitHub Universe 2016
+2016-09-14,qwLDACQeWBI,GitHub Universe - We Have Wift Off!
+2016-09-14,afvT1c1ii0c,How we build software.
+2016-07-29,eLUegWCIeOA,GitHub Satellite 2016
+2016-07-29,cwz3U82mC-Y,The API flow - GitHub Satellite 2016
+2016-07-29,He-yMYcJLig,Staying sane with small incremental releases - GitHub Satellite 2016
+2016-07-29,YRH6NvYaBk4,Optimizing for cognitive workflows - GitHub Satellite 2016
+2016-07-29,f2-twfkbdiE,Inspiring innovation in a new era of technology - GitHub Satellite 2016
+2016-07-29,_7XP0RWZt0U,Social Coding at SAP - GitHub Satellite 2016
+2016-07-29,SA1h34ESWqQ,Collaborating with Hubot for a more efficient DevOps workflow - GitHub Satellite 2016
+2016-07-29,ANEv_7X7NA8,Using pull requests to drive continuous delivery - GitHub Satellite 2016
+2016-07-29,Tde6YQtudWw,How we built GOV.UK without breaking the web - GitHub Satellite 2016
+2016-07-29,WVb2OD49pUA,Building cross-platform apps with Electron - GitHub Satellite 2016
+2016-07-29,lJVrKhrsHvU,Growing and maintaining an open source project - GitHub Satellite 2016
+2016-07-29,DiMkf2p2PvI,Prototyping the Internet of Things - GitHub Satellite 2016
+2016-07-29,UaqulMz5npk,In pursuit of open source security - GitHub Satellite 2016
+2016-07-29,cUHxaAOfj1A,Building GitHub - GitHub Satellite 2016
+2016-07-29,HMV39N-UgFY,Closing Keynote - GitHub Satellite 2016
+2016-07-29,DoQiiE5oNOU,Opening Keynote - GitHub Satellite 2016
+2016-11-08,J8e5tmGJrLo,Git Merge 2016 Recap
+2016-11-16,i7AvltW48Xk,"The Coding Chef: Optimizing Tools & Workflows, Juan Pablo Buritica - Git Merge 2016"
+2016-11-16,rKgBV4yfK3g,"Git Is Taking Over Microsoft, Saeed Noursalehi - Git Merge 2016"
+2016-11-16,Y2Msq90ZknI,"Dissecting Git's Guts, Emily Xie - Git Merge 2016"
+2016-11-16,bQBE7Ky7xs8,"Version Controlled CI and CD, Sytse ""Sid"" Sijbrandij - Git Merge 2016"
+2016-11-16,d-T51nhmFhQ,"20 Tricks with Git and Shell, Spencer Krum - Git Merge 2016"
+2016-11-16,W_gtQthk-bQ,"Git for Static Websites, Ryan Hodson - Git Merge 2016"
+2016-11-16,MlBj0znSoMo,"Tracking Huge Files with Git LFS, Tim Pettersen - Git Merge 2016"
+2016-11-16,DvMfNfjcYJg,"Repo factoring, Charles Bailey - Git Merge 2016"
+2016-11-16,TG_MxBNCsaQ,"From CLI to GUI: Overcoming Challenges to Advance Git, John Haley & Hamid Shojaee - Git Merge 2016"
+2016-11-16,z2kEpFF8l1Q,"Change Needs Management, Emily Jane Hogbin Westby - Git Merge 2016"
+2016-11-16,b3P2efnryfs,"Adopt Git at Scale and Stay Sane, Lars Schneider - Git Merge 2016"
+2016-11-16,f7ecUqHxD7o,"Scaling at GitHub, Patrick Reynolds - Git Merge 2016"
+2016-11-16,vyenmLqJQjs,"Linux Kernel Development, Greg Kroah-Hartman - Git Merge 2016"
+2016-11-16,rrPTGjDjqlQ,Optimizing for cognitive workflows - Laurent Ploix
+2016-04-05,LreQfx5x740,Octotales • Fred Hutch
+2016-03-15,OeBZUW-9i0M,Octotales: MailChimp
+2016-02-04,jpMmboYadnA,Git and GitHub Secrets - GitHub Universe 2015
+2016-02-04,NqqmafB4fAg,Changing Lives with Open Data - GitHub Universe 2015
+2016-02-04,0MQihfI_OMA,GitHub Security Best Practices - GitHub Universe 2015
+2016-02-04,F8hxDhtyNEw,Offline Web Apps on GitHub Pages - GitHub Universe 2015
+2016-02-04,0jA2YrC1X4k,Metrics-Driven Development - GitHub Universe 2015
+2016-02-04,QNixDNtwYJ0,From Perforce To Git: Lessons Learned - GitHub Universe 2015
+2016-02-04,x2fd8HHk5xM,Integrating with the GitHub API - GitHub Universe 2015
+2016-02-04,kSnHQREBaXo,Beyond Saas: Building for Enterprise - GitHub Universe 2015
+2016-02-04,Sq2HiOE0cTY,Rethinking Production Monitoring - GitHub Universe 2015
+2016-02-04,_dkeD3OZ218,Electron: Desktop Apps with Web Languages - GitHub Universe 2015
+2016-02-04,Bn3Aa325v4k,The Importance of Positive Feedback - GitHub Universe 2015
+2016-02-04,XWCmMXDaufM,From No Git to 3000 GitHub Enterprise Users - GitHub Universe 2015
+2016-02-04,VSPsEu7QmBM,Working Together to Make Things Better for the World - GitHub Universe 2015
+2016-02-04,MVwj6DQM-PY,Every Company is a Software Company - GitHub Universe 2015
+2016-02-04,0pzir6xoQQc,Creating a Community at Docker - GitHub Universe 2015
+2016-02-04,5KMW5BA2qGk,Tell Our Stories - GitHub Universe 2015
+2016-02-04,4etQ8s74aHg,Democratic Deploys at Airbnb - GitHub Universe 2015
+2016-02-04,KzJghBDIBOM,CI in the World of MicroServices - GitHub Universe 2015
+2016-02-04,ndBwIFmOjzw,Atlassian and Git LFS - GitHub Universe 2015
+2016-02-04,UquTe8QlSEo,Visual Studio Online and Git LFS - GitHub Universe 2015
+2016-02-04,68ItppT_aGM,Overview of Git LFS - GitHub Universe 2015
+2016-02-04,YHierHqxOT0,Training the Team - GitHub Universe 2015
+2016-02-04,xD5p1Iw9In4,GitHub Enterprise Primer and Deployment - GitHub Universe 2015
+2016-02-04,Falqd-5Nfqo,Building Communities Around Open Source Security Software - GitHub Universe 2015
+2016-02-04,vCwuZfK0VG4,"Pull Requests, Code Review, and the GitHub Flow - GitHub Universe 2015"
+2016-02-04,IEwtBi7P9cQ,Open Source Principles for Internal Engineering Teams - GitHub Universe 2015
+2016-02-04,vtz4tCxQgx0,FIDO U2F: The Next Step in the Evolution of Account Security - GitHub Universe 2015
+2016-02-04,l5SIbsy21jE,Git LFS Training - GitHub Universe 2015
+2016-02-04,GcMQgLT1VPw,Digital-Industrial: Global Impact of Industrial Innovation - GitHub Universe 2015
+2016-02-04,yCOkM9PX6r0,"Five years, building a culture, and handing it off - GitHub Universe 2015"
+2015-11-10,EZy1Dl5KJNg,The Mini Octocat Figurine
+2016-02-04,6-FqUO_RzUo,Opening Keynote - GitHub Universe 2015
+2015-10-01,vq2jYFZVMDA,GitHub Universe
+2015-10-06,VzuBJTtwm3o,Anna's Story
+2015-10-01,_11d1ZsEZ8g,Git LFS 1.0
+2017-06-01,UQYWHQMKOQA,"How Argument Cultures & Critical Feedback are Hurting Eng. Teams, Kate Heddleston - CodeConf 2015"
+2017-06-01,85fXs6cQETQ,"Becoming a Better Programmer, Peter Goodliffe - CodeConf 2015"
+2017-05-31,NqjPy1Ltsv8,"The Hacker's Guide to the Galaxy, Ariel Waldman - CodeConf 2015"
+2017-05-30,CGfCLy_c9NE,"Improving Online Learning and Collaboration Through Design, Kortney Ziegler - CodeConf 2015"
+2017-05-30,F33S9OTN26M,"Microsoft Azure and Hadoop, an OSS Story, Jennifer Marsman - CodeConf 2015"
+2017-05-29,W42S1pkSq-o,"How Facebook does Open Source at Scale, Christine Abernathy - CodeConf 2015"
+2017-05-29,wTqaz5vf8U0,"Conversational Aikido and Other Lessons in Moderation, Lee Dohm - CodeConf 2015"
+2017-05-29,NdmhVX6zIr4,"Single Page Web Apps with Electron, Paul Betts - CodeConf 2015"
+2017-05-28,qBOsGwpwEoY,"Web Components in Google Chrome, Elliott Sprehn - CodeConf 2015"
+2017-05-28,N8AZFUOBsaw,"World of Atom, Daniel Hengeveld, Chris Wanstrath, Ben Ogle - CodeConf 2015"
+2017-05-27,q7vqdMGIY7o,"Lessons from Girl Develop It, Corinne Warnshuis - CodeConf 2015"
+2017-05-27,I2B5GkBw2H4,"Making Music in the Browser, Steve Kinney - CodeConf 2015"
+2017-05-26,CCICGu5dy8s,"Creating Chaos from Order, Casey Rosenthal - CodeConf 2015"
+2017-05-26,gSbLvgof-f8,"Detecting and Mitigating Fraud in Realtime at Airbnb, Eric Levine - CodeConf 2015"
+2017-05-25,K8gB41dYAUM,"The Guardian: Developing in the Open, Roberto Tyley - CodeConf 2015"
+2017-05-25,Z_-mJP0Dh1w,"Designing in the Open, Una Kravets & Ryan Brownhill - CodeConf 2015"
+2017-05-24,6Giz8csd6Is,"Debugging Diversity, Anjuan Simmons - CodeConf 2015"
+2017-05-24,5ozzhMlrsNk,"State of the Open Source Licenses, Mislav Marohnić - CodeConf 2015"
+2017-05-23,cxxWrUfugyE,"Microsoft’s Voyage into Open Source, Kasey Uhlenhuth - CodeConf 2015"
+2017-05-23,WqsXQGKtods,"Building an Open Source Business, Josh Kalderimis - CodeConf 2015"
+2015-08-13,KDUtjZHIx44,Everything I Wish I Knew When I Started Using GitHub
+2015-06-25,Y7aEiVwBAdk,Introducing Atom 1.0!
+2015-05-22,QEFEdkFaFVk,CodeConf 2015 in Nashville
+2015-05-12,ftMJdbHxv3A,Git Merge 2015
+2015-05-12,7qspn906quI,"Great Artists Steal: Adding Git Support to Microsoft Visual Studio, Edward Thomson - Git Merge 2015"
+2015-05-12,MPwRnpzmMI8,"Infrastructure as Code: Manage your Architecture with Git, Danilo Poccia - Git Merge 2015"
+2015-05-12,Hksnvmlztns,"Building a Git Extension with First Principles, Rick Olson - Git Merge 2015"
+2015-05-12,xYhHi8yK-Is,"Teaching People Git, Emma Jane Hogbin Westby - Git Merge 2015"
+2015-05-12,F5YBaske5ao,"The Challenge of Monorepos: Strategies from git-core and Open Source, John Garcia - Git Merge 2015"
+2015-05-12,62Q-uepv-2A,"Beyond Source Code Versioning – git at SAP, Dirk Lehman - Git Merge 2015"
+2015-05-12,cY34mr71ky8,"Git at Google: Making Big Projects (and Everyone Else) Happy, Dave Borowitz - Git Merge 2015"
+2015-05-12,bjh4DHuOf4E,"Scaling Git at Twitter, Wilhelm Bierbaum - Git Merge 2015"
+2015-03-03,L8d0G7Duz9A,GitHub OctoTales • Epic Games
+2014-11-18,mkiDkkdGGAQ,"GitHub Enterprise on AWS is fast, jetpack fast"
+2014-11-11,piZQLiWMypk,A look at the new GitHub Enterprise
+2014-11-11,lN4Pu0CzUhQ,Something feels...different. GitHub Enterprise on AWS.
+2014-10-21,OF--50_hcTU,The Octocat Figurine
+2014-08-12,V8XJBacCNTo,FIRST Robotics • Presented by GitHub
+2014-06-23,j1-G14EJRQ8,GitHub OctoTales • GREE
+2014-06-13,kuZ5eR2JcSo,Modularity à la Taliban by Jon Sterling • GitHub Reactive Cocoa Developer Conference
+2014-06-13,ICNjRS2X8WM,The Future Of ReactiveCocoa by Justin Spahr-Summers • GitHub Reactive Cocoa Developer Conference
+2014-06-13,NzKp2AjnMMM,Reactive Cocoa Developer Conference • Panel Q&A and Discussion
+2014-06-13,sek0ohbboNU,RACify Non-Reactive Code by Dave Lee • GitHub Reactive Cocoa Developer Conference
+2014-05-14,iUcm5COsKJo,rOpenSci Hackathon 2014
+2014-04-07,KgVHcguTNtQ,GitHub OctoTales • UC Berkeley
+2014-03-11,vbert5jq058,Passion Projects (Live) 11: Laura Gluhanich (Building Online Communities)
+2014-03-10,7aRZ2QbuK_o,Passion Projects (Docs) • Timoni West (Foursquare)
+2014-03-03,veok2RIQqYU,GitHub OctoTales • DeNA
+2014-01-23,XRtSQqR3sdU,2013 GitHub Dodgeball Tournament for Charity
+2014-01-20,svPqLr5NXoM,Passion Projects (Live) 10: Dana McCallum (Joining Datasets w Pastimes)
+2014-01-08,VgeQsIKO4rM,Passion Projects (Live) 9: Melissa Severini (Organization Organizing)
+2013-12-16,v0EsVMAyZdI,Passion Projects (Live) 7: Jen Myers (How To Not Be An Expert)
+2013-12-16,XqSooZhyR3w,Passion Projects (Live) 8: Ligaya Tichy (Giving Charitably)
+2013-12-12,r8A383xMRUQ,Passion Projects (Live) 6: The Leslie Bradshaw Realtalk Edition
+2013-11-13,KOhaBgKcb1w,"""What is Your Why"" by Keavy McMinn"
+2013-10-02,-RhhP7kv57g,Flexible Hours • Inside GitHub
+2013-09-19,3GeKarLwfqA,Passion Projects (Docs) • Rachel Myers (RailsBridge)
+2013-08-12,e5KzPnpzZQQ,Girls Who Code Graduation Salutation from GitHub
+2013-07-18,RZbqJxQJ5LY,Passion Projects (Live) 5: Jessica Hische (Procrastiworking)
+2013-07-03,q4c4NuOedXY,Passion Projects (Live) 4: Sara Chipps (Forgiveness)
+2013-06-10,ztaWfi0Aaqk,Passion Projects (Live) 3: Timoni West (UX and User Data)
+2013-06-08,hSm7zvVYgvM,Git Merge • HubTags (Lars Schneider)
+2013-06-08,4ZWqr6iih3s,Git Merge • Current status of libgit2 (Russell Belfer)
+2013-06-08,NmxZczuN7_8,Git Merge • Gapply.vim (Andrew Radev)
+2013-06-08,Zhl0PUKztvc,Git Merge • Gource (Tobias Preuss)
+2013-06-07,Dl416_yVqhU,Git Merge • The state of Teaching Git (Matthew McCullough)
+2013-06-07,ox3G_4rQrQQ,Git Merge • A description of libgit2 (Ben Straub)
+2013-06-07,z4DgbC1m8yE,Git Merge • Git integration with Intellij (Kirill Likhodedov)
+2013-06-07,5643CSFvgmY,Git Merge • Git in Team Foundation (Ed Thomson)
+2013-06-07,3MHVPW8Yn2w,Git Merge • GitHub Contributors (Sergio Gil)
+2013-06-05,b9IJjxDZXcg,Git Merge • Recursive Submodule Checkout (Jens Lehmann & Haiko Voigt)
+2013-06-05,CtIkm9Zy1iw,Git Merge • git bisect (Christian Couder)
+2013-06-05,FMZ2_-Ny_zc,Git Merge • git-imerge (Michael Haggerty)
+2013-06-05,tRh20KrM5Os,Git Merge • bfg-repo-cleaner (Roberto Tyley)
+2013-06-05,P28M9Q-vaWM,Git Merge •  BumpVersion & GeoCommit (Filip Noetzel)
+2013-06-05,y4J7_VoR9aM,Git Merge • git-trainer (Sergey Sergeyev)
+2013-06-05,xK5yaWTt0R0,Git Merge • Scaling Git at GitHub (Vicent Martí)
+2013-06-05,VUbJHWkAsQo,Git Merge • VersionEye (Robert Reiz)
+2013-06-05,dvWBct66Hcw,Git Merge • SubGit (Semyon Vadishev)
+2013-06-05,OfBwFkNaoUo,Git Merge • The Future of Pro Git (Scott Chacon)
+2013-06-05,2IPg886iSOU,Git Merge • hub (Mislav Marohnić)
+2013-05-23,-qql1Ess7qM,Git Merge • German Law on GitHub (Stefan Wehrmeyer)
+2013-05-23,7riCX4Oxms8,Git Merge • Git in VisualStudio (Martin Woodward)
+2013-05-23,nmSFRKfFMak,Git Merge • ShowInGitHub XCode Plugin (Lars Schneider)
+2013-05-23,XP4CxUkBPSQ,Git Merge • Google Summer of Code (Git Core Team)
+2013-05-05,uZqXc1E91mE,Passion Projects (Live) 2: Heather Arthur (Machine Learning)
+2013-03-28,rMYUGwQGLn8,Passion Projects (Live) 1: Rachel Myers (RailsBridge)
+2013-03-20,bgmwnfYtR5c,GitHub OctoTales • jQuery
