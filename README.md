@@ -15,7 +15,7 @@ I will be uploading various Python notebooks that show you how to gather data fo
 
 | **Header**     | **Description** | **Data Type**     |
 | :----:       |    :----   |         :----: |
-| **Video ID**   | The unique video id for a YouTube video, allows a URL to be generated that links to it.| String |
-| **Date**     | The publishing date of a video to a channel. **YYYY-MM-DD** Format     | String   |
-| **Channel ID**  | The channel that uploaded the video.       | String      |
-| **Title**   | The title of the video.        | String      |
+| Video ID   | The unique video id for a YouTube video, allows a URL to be generated that links to it.| String |
+| Date     | The publishing date of a video to a channel in **YYYY-MM-DD** format.   | String   |
+| Channel ID  | The channel that uploaded the video.       | String      |
+| Title   | The title of the video.        | String      |
